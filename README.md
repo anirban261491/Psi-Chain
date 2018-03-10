@@ -1,4 +1,4 @@
-# HackAZ
+# Psi-Chain
 
 A secured and distributed blockchain based object tracking system developed for Hack Arizona 2018. The prototype used Google 
 Optical Character Recognition to capture license plate numbers and store the information along with the location in a 
